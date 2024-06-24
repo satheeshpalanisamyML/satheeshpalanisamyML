@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @satheeshpalanisamyML
-- 👀 I’m interested in ...machine learning
-- 🌱 I’m currently learning ...machine learning
-- 💞️ I’m looking to collaborate on ...google
-- 📫 How to reach me ...satheesh@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ satheesh.machine learning
+-  I’m looking to collaborate on ...google
+-   reach me ...satheesh@gmail.com
+ 
 
 <!---
 satheeshpalanisamyML/satheeshpalanisamyML is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
